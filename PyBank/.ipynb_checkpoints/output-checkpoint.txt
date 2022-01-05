@@ -1,0 +1,2 @@
+Tot_Months,Total_Profit/Loss,Avg_Profit/Loss_Change,Greatest_Increase,Greatest_Decrease
+86,38382578.0,-2315.1176470588234,1926159.0,-2196167.0
